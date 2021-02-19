@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivam Mishra
-- 👀 I’m interested in Web Development, AI,ML, Ethical Hackin
+- 👀 I’m interested in Web Development, AI,ML, Penetration Testing 
 - 🌱 I’m currently learning Data Science
 - 📫 https://www.facebook.com/fullstackdeveshivam
 
